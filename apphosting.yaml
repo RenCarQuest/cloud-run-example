@@ -23,4 +23,4 @@ runConfig:
   #   secret: mySecretRef
 env:
   - variable: NEXT_PUBLIC_API_KEY
-    secret: test-firebase-secrets
+    secret: test-firebase-secrets@4
